@@ -18,7 +18,7 @@ Operating Systems Used
 
 	•	Windows 10
 
-Prerequisites --> <a href="https://github.com/simeon.hawkins/osticket-prereqs"> osTicket-PreReqs </a>
+Prerequisites --> <a href="https://github.com/simeon.hawkins/osticket-prereqs"> osticket-prereqs </a>
 
 
 	•	Be connected to the Windows VM via RDP.
